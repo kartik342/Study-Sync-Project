@@ -1,7 +1,3 @@
-# Study-Sync-Project
-A responsive Study Sync UI built using pure HTML and CSS
-
-
 # Study Sync - UI Project
 
 A responsive and modern UI for a **Study Sync** platform, built using **HTML** and **CSS**. This is a front-end-only project that showcases clean design, responsiveness, and user-friendly layout.
